@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lokesh M!
+# 👋 Hi, I'm Lokesh D!
 
 🎓 **B.Tech – Artificial Intelligence & Data Science**  
 📊 **Aspiring Data Analyst** | ⚙️ **DevOps Enthusiast**  
@@ -30,21 +30,19 @@
 
 ## 🧠 Featured Projects
 
-### 📊 [Sales Insight Dashboard](#)
+### 📊 [Sales Insight Dashboard](https://lookerstudio.google.com/u/0/reporting/ff1643f4-deed-42a9-9219-4738910418cf/page/UqnPF)
 > Built an interactive Power BI dashboard to visualize sales performance, trends, and KPIs.
 
 ### ☁️ [DevOps CI/CD Pipeline Automation](#)
-> Developed an automated deployment pipeline using **Docker** & **GitHub Actions**.
+> Developed an automated deployment pipeline using **Docker** & **GitHub Actions** LEARNED
 
-### 🤖 [AI Resume Analyzer](#)
-> A Python-based NLP project that evaluates resumes for skills and keyword match scoring.
-
+### 🤖 [AI Resume Builder App](#)
+> ON PROCESSING
 ---
 
 ## 🌈 Connect With Me
-🌐 Portfolio: [Coming Soon 🚀]  
-💼 LinkedIn: [linkedin.com/in/lokeshm](#)  
-📧 Email: lokesh@example.com  
+💼 LinkedIn: https://www.linkedin.com/in/loki-ai
+📧 Email: lokeshlokesh68815@gmail.com
 
 ---
 
